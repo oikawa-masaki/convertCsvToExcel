@@ -2,6 +2,24 @@
 
 CLI から指定したディレクリ配下の CSV ファイル(UTF-8)を再帰的に 1 つの Excel (.xlsx)に整理します
 
+## 実行環境
+
+- MacBook Pro(Apple M2)
+- macOS Sonoma 14.2.1
+
+```shell
+% volta list
+⚡️ Currently active tools:
+
+    Node: v18.18.0 (default)
+    Yarn: v1.22.19 (default)
+    Tool binaries available:
+        vue (default)
+        cdk (default)
+        npm-check-updates, ncu (default)
+        tsc, tsserver (default)
+```
+
 ## 使用方法
 
 ### npm install
