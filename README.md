@@ -55,3 +55,4 @@ node src/convertCsvToExcel.js /csv_input /csv_output/output.xlsx
   - 上記以外だと以下のエラーが出力されます
   - "Usage: node convertCsvToExcel.js <csv_directory_path> <output_excel_file_path>"
 - 第一引数に指定するディレクトリは、配下に CSV ファイルが含まれているディレクトリを指定してください
+- 0 バイトの CSV ファイルは除外しています
